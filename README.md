@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @re-chem
+- 👋 Hi, I’m Regina Stavale
 - 👀 I’m interested in Python and Data Science.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on chemistry
