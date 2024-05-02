@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Regina Stavale
 - 👀 I’m interested in Python and Data Science.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on chemistry
 - 📫 How to reach me... re.pdo90@gmail.com
 
